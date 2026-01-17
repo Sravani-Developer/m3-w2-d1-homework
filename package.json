@@ -1,0 +1,31 @@
+{
+  "name": "m3-w2-d1-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+  "task1": "node scripts/task1-create-db.js",
+  "task2": "node scripts/task2-create-collection.js",
+  "task3": "node scripts/task3-insert-given-data.js",
+  "task4": "node scripts/task4-insert-extra-records.js",
+  "task5": "node scripts/task5-find-corona-zip.js",
+  "task6": "node scripts/task6-find-ca-incomes.js",
+  "task7": "node scripts/task7-update-alaska.js",
+  "task8": "node scripts/task8-sort-by-state.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sravani-Developer/m3-w2-d1-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sravani-Developer/m3-w2-d1-homework/issues"
+  },
+  "homepage": "https://github.com/Sravani-Developer/m3-w2-d1-homework#readme",
+  "dependencies": {
+    "mongodb": "^7.0.0"
+  }
+}
